@@ -8,5 +8,5 @@ Credits go to @krnowak
 **Installation**
 - git clone https://github.com/krishjainx/scripts-coreos-dev
 - cd scripts-coreos-dev
-- ./install.sh
+- sudo ./install.sh
 
