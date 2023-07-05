@@ -9,5 +9,4 @@ Credits go to @krnowak
 - git clone https://github.com/krishjainx/scripts-coreos-dev
 - cd scripts-coreos-dev
 - ./install.sh
-- 
 
